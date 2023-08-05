@@ -1,3 +1,3 @@
 # EjerciciosTestJs
 
-Ejercicios basicos de js probando la libreria de JEST
+probando la libreria de JEST con ejercicios basicos de js 
